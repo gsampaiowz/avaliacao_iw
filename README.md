@@ -1,2 +1,2 @@
 # AvaliacaoIW
-[Site](https://gsampaiowz.github.io/AvaliacaoIW/)
+[Site](https://gsampaiowz.github.io/avaliacao_iw/)
